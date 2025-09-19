@@ -1,7 +1,7 @@
 # 👋 Hi, I'm ARYAN SAHU!
 ### A Web Developer Building Things One Step at a Time 🚀
 
-I'm a passionate and dedicated Web Developer from India, focused on creating clean, efficient, and user-friendly web applications. I enjoy tackling new challenges and am currently deep-diving into Data Structures and Algorithms (DSA) to strengthen my problem-solving skills. My goal is to build simple, yet impactful projects that showcase my learning journey.
+I'm a passionate and dedicated Web Developer , focused on creating clean, efficient, and user-friendly web applications. I enjoy tackling new challenges and am currently deep-diving into Data Structures and Algorithms (DSA) to strengthen my problem-solving skills. My goal is to build simple, yet impactful projects that showcase my learning journey.
 
 <br>
 
@@ -60,18 +60,3 @@ Here's a glimpse of what I've been building:
 
 
 
-### 📬 Let's Connect!
-
-I'm always open to new opportunities and collaborations. Feel free to reach out.
-
-<p align="left">
-  <a href="https://github.com/Aryan-Sahu315" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/aryan-sahu-4a6b87287/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/Aryann_/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#d16c14" alt="LeetCode" />
-  </a>
-</p>
