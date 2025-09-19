@@ -20,6 +20,22 @@ Here are some of the technologies and tools I work with:
 </p>
 
 ---
+### 📬 Let's Connect!
+
+I'm always open to new opportunities and collaborations. Feel free to reach out.
+
+<p align="left">
+  <a href="https://github.com/Aryan-Sahu315" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-sahu-4a6b87287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Aryann_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#d16c14" alt="LeetCode" />
+  </a>
+</p>
+
 
 ### 📂 My Featured Projects
 
