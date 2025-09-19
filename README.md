@@ -1,104 +1,57 @@
-### Hi there! 👋 I'm [Your Name]
+# 👋 Hi, I'm ARYAN SAHU!
+### A Web Developer Building Things One Step at a Time 🚀
+
+I'm a passionate and dedicated Web Developer from India, focused on creating clean, efficient, and user-friendly web applications. I enjoy tackling new challenges and am currently deep-diving into Data Structures and Algorithms (DSA) to strengthen my problem-solving skills. My goal is to build simple, yet impactful projects that showcase my learning journey.
+
+<br>
 
 ---
 
-### 🚀 About Me
+### 💻 My Toolkit & Technologies
 
-<br/>
-<img src="https://lakshyatripathi.tech/assets/images/me.svg" alt="Profile illustration" width="100"/>
+Here are some of the technologies and tools I work with:
 
-Building AI solutions that matter. Passionate Computer Science and AI student skilled in Java and DSA, with growing expertise in Machine Learning and Generative AI. I love creating innovative AI-powered products that solve real-world problems and make a difference. Open for freelance work — I can vibe code your sites and get things done anyhow.
-
----
-
-### 💡 What I'm Working On
-
-* Learning: Advanced LLM architectures, RAG systems, and cloud-native AI deployment
-* Exploring: Model Context Protocol (MCP), LangChain agents, and multi-modal AI applications
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
-### 🛠️ Tech Arsenal
+### 📂 My Featured Projects
 
-<br/>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge">
-</a>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java badge">
-</a>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ badge">
-</a>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge">
-</a>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge">
-</a>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
-</a>
-<br/>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy badge">
-</a>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas badge">
-</a>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/Matplotlib-56B5C3?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib badge">
-</a>
-<br/>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask badge">
-</a>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI badge">
-</a>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit badge">
-</a>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/Langchain-65A651?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain badge">
-</a>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI badge">
-</a>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge">
-</a>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge">
-</a>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge">
-</a>
-<br/>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code badge">
-</a>
-<a href="https://github.com/Aryan-Sahu315">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter badge">
-</a>
+Here's a glimpse of what I've been building:
+
+#### 1. Travel-Site
+- **Description:** A fully responsive travel booking website built from scratch. It features a modern design, an interactive carousel for destinations, and a smooth user experience.
+- **Technologies:** HTML, CSS, JavaScript
+- **Link:** [View on GitHub](https://github.com/Aryan-Sahu315/Travel-Site)
+
+#### 2. Password-Generator
+- **Description:** A simple and secure web-based tool that generates strong, random passwords. This project was a great way to practice working with DOM manipulation and client-side security principles.
+- **Technologies:** HTML, CSS, JavaScript
+- **Link:** [View on GitHub](https://github.com/Aryan-Sahu315/Password-Generator)
+
+#### 3. E-COMMERECE-WEBSITE
+- **Description:** A responsive e-commerce site with a clean, minimalist UI. Users can browse a variety of products with an intuitive navigation system.
+- **Technologies:** HTML, CSS, JavaScript
+- **Link:** [View on GitHub](https://github.com/Aryan-Sahu315/E-COMMERECE-WEBSITE)
 
 ---
 
-### 📧 Let's Connect!
+### 📈 GitHub Stats
 
-<br/>
-<a href="[Your LinkedIn Profile URL]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
-</a>
-<a href="https://github.com/[Your GitHub Username]">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge">
-</a>
-<a href="[Your LeetCode Profile URL]">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge">
-</a>
-<a href="[Your Twitter Profile URL]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge">
-</a>
-<a href="mailto:[Your Email Address]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge">
-</a>
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-Sahu315&show_icons=true&theme=dracula)
+
+---
+
+### 📬 Let's Connect!
+
+I'm always open to new opportunities and collaborations. Feel free to reach out.
+
+- **GitHub:** [https://github.com/Aryan-Sahu315](https://github.com/Aryan-Sahu315)
+- **LinkedIn:** [https://www.linkedin.com/in/aryan-sahu-4a6b87287/]
+- **Leetcode:** [https://leetcode.com/u/Aryann_/]
